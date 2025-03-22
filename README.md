@@ -1,16 +1,15 @@
-**Project Description:**
+# E-Commerce Web Application (Cera)
 
-**Project Title:** E-Commerce Web Application (Cera)
 
-**Overview/Summary:**
+# **Overview/Summary:**
 
 This project entails the development of a static e-commerce web application, primarily focused on showcasing products and providing a basic user interface for online shopping. The application features a homepage with promotional banners, featured and new arrival product displays, and a navigation menu to access various sections like the shop, blog, about, and contact pages. It also includes a cart functionality (though likely client-side only in this provided HTML), a newsletter signup, and a detailed footer.
 
-**Purpose/Goal:**
+# **Purpose/Goal:**
 
 The primary goal of this project is to create a visually appealing and user-friendly online storefront to display and promote products, aiming to attract potential customers and encourage them to explore the offerings.
 
-**Key Features/Functionality:**
+# **Key Features/Functionality:**
 
 * **Navigation:** A clear and intuitive navigation menu for easy access to different sections of the website.
 * **Product Display:** Showcasing featured and new arrival products with images, descriptions, ratings, and prices.
@@ -21,20 +20,20 @@ The primary goal of this project is to create a visually appealing and user-frie
 * **Responsive Design:** Mobile responsive design, implemented via the mobile div and the general meta viewport.
 * **Feature boxes:** Small boxes that display features of the site, such as Free Shipping, Online order, and promotions.
 
-**Technologies/Libraries Used:**
+# **Technologies/Libraries Used:**
 
 * **HTML:** For structuring the web page content.
 * **CSS:** (style.css) For styling the web page and creating the visual layout.
 * **JavaScript:** (script.js) For adding interactivity and functionality (not provided in the snippet, but referenced).
 * **Font Awesome:** For icons.
 
-**Potential Applications:**
+# **Potential Applications:**
 
 * Online retail store for various products.
 * Promotional website for a specific brand or product line.
 * E-commerce platform for showcasing and selling goods.
 
-**Target Audience:**
+# **Target Audience:**
 
 * Online shoppers.
 * Individuals interested in purchasing products online.
